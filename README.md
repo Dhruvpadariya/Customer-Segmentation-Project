@@ -32,7 +32,6 @@ This project uses K-Means Clustering to segment mall customers based on their de
 ## How to Run
 1. Clone this repo
 2. Run `Customer_Segmentation.ipynb` in Jupyter Notebook
-3. Install required libraries via `pip install -r requirements.txt`
 
 ## Skills Demonstrated
 - Unsupervised Learning
